@@ -64,8 +64,8 @@ Tech: `Java`, `Hibernate`, `MariaDB`
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajakta1157&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajakta1157&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cprajakta1157&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cprajakta1157&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ Tech: `Java`, `Hibernate`, `MariaDB`
 
 | Type       | Details                              |
 |------------|---------------------------------------|
-| 📧 Email   | [prajakta1157@gmail.com](mailto:prajakta1157@gmail.com) |
+| 📧 Email   | [cprajakta1157@gmail.com](mailto:cprajakta1157@gmail.com) |
 | 📍 Location | Pune, Maharashtra, India             |
 | 📞 Phone   | +91 9970831157                        |
 
